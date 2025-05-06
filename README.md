@@ -1,30 +1,30 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aingargiola.Aingargiola" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cmedwards76.cmedwards76"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anthony+Ingargiola!;" />
 </h1>
 
-<h3 align="center">A passionate software quality engineer lead from St. Louis</h3>
+<h3 align="center">A passionate cyber security student from Perryville, MO</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a sofware development team**
+ 🔭 I’m currently working on **my degree in cyber security**
  
- 🌱 I’m currently learning **sql, Python, AWS**
+ 🌱 I’m currently learning **VS code**
 
-💬 Ask me about **python, bash, or sql... or anything [here](https://github.com/Aingargiola/Learning_coding.git)**
+💬 Ask me about **what I'm learning [here](https://github.cmedwards76)**
 
-⚡ Fun fact **Lego mini-figures have the largest population on Earth!**
+⚡ Fun fact **an old wives tale about Onions- If you cut an onion when anyone in your family is sick and carry it with you through the house, you have a better chance of not getting sick **
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:aingargiola8@gmail.com">
+  <a href="mailto:cmedwards1976@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/anthony-ingargiola" target="_blank">
+  <a href="https://https://www.linkedin.com/in/christy-edwards-a9b9a7360/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
